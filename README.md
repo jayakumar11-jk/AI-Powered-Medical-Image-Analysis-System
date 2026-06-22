@@ -37,7 +37,7 @@ python app.py
 This project uses the Groq API for AI image analysis.
 
 Get your API key from:
-https://console.groq.com/
+console.groq.
 
 Enter the API key in the application before uploading images.
 
